@@ -15,7 +15,7 @@
     └── watch_data_map : wearable 데이터의 gps 정보를 활용하여 map 시각화
     └── watch_data_review : 수집된 wearable 데이터 확인 및 정리를 위한 tool
 
-├── Dataset
+├── Dataset (메일로 공유)
    └──01_SBHAR_Dataset
    └──02_PAMAP2_Dataset
    └──03_MotionSense_Dataset
