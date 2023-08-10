@@ -1,0 +1,8 @@
+delay 3000 ms
+a500g499lacc499
+abnormal:0	Save mode=0
+System.currentTimeMillis()=	1685512188754
+
+SPT 과목
+성연재 학생 왼손 시계
+걷기

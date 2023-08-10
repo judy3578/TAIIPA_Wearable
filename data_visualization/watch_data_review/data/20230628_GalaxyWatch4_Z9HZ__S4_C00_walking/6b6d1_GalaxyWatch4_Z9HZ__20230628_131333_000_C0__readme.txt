@@ -1,0 +1,4 @@
+delay 3000 ms
+a500g499lacc500
+abnormal:0	Save mode=0
+System.currentTimeMillis()=	1687925613665
