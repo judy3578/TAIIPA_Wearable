@@ -9,7 +9,7 @@
     └── 03_HAR_combined_data_learning_transformer.ipynb : 데이터를 모델 학습 (Transformer)
     └── 04_blind_test.ipynb : 학습된 모델을 이용하여 blind test 
     
-└── data_visualization : 데이터 시각화 및 
+└── data_visualization : 데이터 시각화
     └── watch_data_map : wearable 데이터의 gps 정보를 활용하여 map 시각화
     └── watch_data_review : 수집된 wearable 데이터 확인 및 정리를 위한 tool
 ```
